@@ -145,3 +145,10 @@ has_hitpoints = 1
 //************************************************************
 // how often should we check to see if we have a valid resource?
 checkValidResourceInterval = 10.0f
+
+//***************************
+// *** THERE BE MODS HERE ***
+//***************************
+
+#include "0halt-queue.odf"
+#include "0shipyard-allied-repair.odf"
